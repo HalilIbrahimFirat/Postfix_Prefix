@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otomataodevsoru3", "otomataodevsoru3\otomataodevsoru3.csproj", "{2A9C1F08-0674-4184-8168-E4B98310E89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9C1F08-0674-4184-8168-E4B98310E89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9C1F08-0674-4184-8168-E4B98310E89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9C1F08-0674-4184-8168-E4B98310E89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9C1F08-0674-4184-8168-E4B98310E89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB086ADD-2EF1-41BD-B756-0604989E6262}
+	EndGlobalSection
+EndGlobal
